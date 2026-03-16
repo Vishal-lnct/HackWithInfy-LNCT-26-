@@ -30,6 +30,7 @@
 | ------- | ------- |
 | [0456-132-pattern](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0456-132-pattern/) | Medium |
 | [0769-max-chunks-to-make-sorted](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0769-max-chunks-to-make-sorted) |
+| [0856-score-of-parentheses](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0856-score-of-parentheses/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +109,7 @@
 | [0049-group-anagrams](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0076-minimum-window-substring/) | Hard |
 | [0474-ones-and-zeroes](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0474-ones-and-zeroes/) | Medium |
+| [0856-score-of-parentheses](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0856-score-of-parentheses/) | Medium |
 | [0942-di-string-match](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0942-di-string-match/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
