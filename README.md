@@ -140,6 +140,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
