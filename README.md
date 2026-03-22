@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0049-group-anagrams) |
 | [0135-candy](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0135-candy) |
+| [0137-single-number-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0137-single-number-ii/) | Medium |
 | [0456-132-pattern](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0456-132-pattern/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0624-maximum-distance-in-arrays](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0624-maximum-distance-in-arrays) |
@@ -139,6 +140,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0137-single-number-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0137-single-number-ii/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2220-minimum-bit-flips-to-convert-number) |
