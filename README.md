@@ -64,12 +64,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0113-path-sum-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0513-find-bottom-left-tree-value) |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0113-path-sum-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0513-find-bottom-left-tree-value) |
 ## Breadth-First Search
@@ -81,6 +83,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0113-path-sum-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0513-find-bottom-left-tree-value) |
 ## Dynamic Programming
@@ -136,6 +139,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0113-path-sum-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0113-path-sum-ii/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1980-find-unique-binary-string) |
 ## Bit Manipulation
 | Problem Name | Difficulty |
