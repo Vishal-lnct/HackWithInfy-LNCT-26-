@@ -20,6 +20,7 @@
 | [1338-reduce-array-size-to-the-half](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1338-reduce-array-size-to-the-half) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1980-find-unique-binary-string) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Sliding Window
@@ -48,6 +49,7 @@
 | [1029-two-city-scheduling](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1029-two-city-scheduling) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1338-reduce-array-size-to-the-half) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1433-check-if-a-string-can-break-another-string) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
