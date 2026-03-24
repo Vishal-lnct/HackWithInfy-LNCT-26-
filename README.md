@@ -37,6 +37,7 @@
 | [0456-132-pattern](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0456-132-pattern/) | Medium |
 | [0769-max-chunks-to-make-sorted](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0769-max-chunks-to-make-sorted) |
 | [0856-score-of-parentheses](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +46,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0624-maximum-distance-in-arrays) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0769-max-chunks-to-make-sorted) |
 | [0826-most-profit-assigning-work](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0826-most-profit-assigning-work/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0942-di-string-match](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0942-di-string-match/) | Easy |
 | [0984-string-without-aaa-or-bbb](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0984-string-without-aaa-or-bbb/) | Medium |
 | [1029-two-city-scheduling](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1029-two-city-scheduling) |
@@ -128,6 +130,7 @@
 | [0076-minimum-window-substring](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0076-minimum-window-substring/) | Hard |
 | [0474-ones-and-zeroes](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0942-di-string-match](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0942-di-string-match/) | Easy |
 | [0984-string-without-aaa-or-bbb](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0984-string-without-aaa-or-bbb/) | Medium |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1433-check-if-a-string-can-break-another-string) |
