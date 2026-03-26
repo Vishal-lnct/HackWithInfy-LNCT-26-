@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/largest-values-from-labels">1090. Largest Values From Labels</a></h2><h3>Medium</h3><hr><p>You are given <code>n</code> item&#39;s value and label as two integer arrays <code>values</code> and <code>labels</code>. You are also given two integers <code>numWanted</code> and <code>useLimit</code>.</p>
+<h2><a href="https://leetcode.com/problems/largest-values-from-labels">1169. Largest Values From Labels</a></h2><h3>Medium</h3><hr><p>You are given <code>n</code> item&#39;s value and label as two integer arrays <code>values</code> and <code>labels</code>. You are also given two integers <code>numWanted</code> and <code>useLimit</code>.</p>
 
 <p>Your task is to find a subset of items with the <strong>maximum sum</strong> of their values such that:</p>
 
