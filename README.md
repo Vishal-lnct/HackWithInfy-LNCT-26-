@@ -183,6 +183,7 @@
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0177-nth-highest-salary) |
+| [0619-biggest-single-number](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0619-biggest-single-number) |
 ## Divide and Conquer
 |  |
 | ------- |
