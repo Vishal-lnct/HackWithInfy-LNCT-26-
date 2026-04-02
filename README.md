@@ -190,6 +190,7 @@
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0176-second-highest-salary/) | Medium |
 | [0177-nth-highest-salary](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0177-nth-highest-salary) |
 | [0511-game-play-analysis-i](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0511-game-play-analysis-i/) | Easy |
