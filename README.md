@@ -158,6 +158,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0076-minimum-window-substring/) | Hard |
 | [0344-reverse-string](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0344-reverse-string) |
@@ -178,6 +179,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0344-reverse-string) |
@@ -243,4 +245,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0141-linked-list-cycle) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
