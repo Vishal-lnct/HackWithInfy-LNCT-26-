@@ -223,6 +223,7 @@
 | [0511-game-play-analysis-i](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0584-find-customer-referee](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [0595-big-countries](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0595-big-countries/) | Easy |
 | [0619-biggest-single-number](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0619-biggest-single-number) |
 ## Divide and Conquer
 | Problem Name | Difficulty |
