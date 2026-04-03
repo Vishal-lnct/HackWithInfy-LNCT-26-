@@ -226,6 +226,7 @@
 | [0595-big-countries](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0595-big-countries/) | Easy |
 | [0610-triangle-judgement](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0619-biggest-single-number) |
+| [0620-not-boring-movies](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0620-not-boring-movies/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
