@@ -221,6 +221,7 @@
 | [0177-nth-highest-salary](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0177-nth-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0511-game-play-analysis-i/) | Easy |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0619-biggest-single-number](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0619-biggest-single-number) |
 ## Divide and Conquer
 |  |
