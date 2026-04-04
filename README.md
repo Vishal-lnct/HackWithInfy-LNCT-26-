@@ -27,6 +27,7 @@
 | [1338-reduce-array-size-to-the-half](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1980-find-unique-binary-string](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1980-find-unique-binary-string) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2706-buy-two-chocolates) |
@@ -84,6 +85,7 @@
 | [1338-reduce-array-size-to-the-half](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1433-check-if-a-string-can-break-another-string) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2706-buy-two-chocolates](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2706-buy-two-chocolates) |
 ## Monotonic Stack
 |  |
@@ -153,6 +155,7 @@
 | [0496-next-greater-element-i](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [1090-largest-values-from-labels](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1090-largest-values-from-labels/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1338-reduce-array-size-to-the-half) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1980-find-unique-binary-string](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1980-find-unique-binary-string) |
 ## String
 |  |
