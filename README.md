@@ -229,6 +229,7 @@
 | [0620-not-boring-movies](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0620-not-boring-movies/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
