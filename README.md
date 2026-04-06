@@ -16,6 +16,7 @@
 | [0496-next-greater-element-i](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0502-ipo](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0605-can-place-flowers](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0605-can-place-flowers/) | Easy |
 | [0624-maximum-distance-in-arrays](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0624-maximum-distance-in-arrays) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0769-max-chunks-to-make-sorted) |
@@ -147,6 +148,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -161,6 +163,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0409-longest-palindrome/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0496-next-greater-element-i/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1090-largest-values-from-labels](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1090-largest-values-from-labels/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1338-reduce-array-size-to-the-half) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1636-sort-array-by-increasing-frequency) |
