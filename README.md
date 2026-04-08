@@ -54,6 +54,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Stack
 | Problem Name | Difficulty |
@@ -212,6 +213,7 @@
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1980-find-unique-binary-string) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
@@ -309,6 +311,7 @@
 | [0009-palindrome-number](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0009-palindrome-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0523-continuous-subarray-sum) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
