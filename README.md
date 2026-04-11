@@ -272,6 +272,7 @@
 | [0176-second-highest-salary](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0176-second-highest-salary/) | Medium |
 | [0177-nth-highest-salary](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0177-nth-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0196-delete-duplicate-emails/) | Easy |
+| [0197-rising-temperature](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0197-rising-temperature/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0584-find-customer-referee](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0586-customer-placing-the-largest-number-of-orders) |
