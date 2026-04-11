@@ -281,6 +281,7 @@
 | [0620-not-boring-movies](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0620-not-boring-movies/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
+| [1068-product-sales-analysis-i](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1148-article-views-i/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1527-patients-with-a-condition](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1527-patients-with-a-condition) |
