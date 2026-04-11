@@ -280,6 +280,7 @@
 | [0627-swap-sex-of-employees](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1527-patients-with-a-condition) |
+| [1757-recyclable-and-low-fat-products](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Divide and Conquer
 |  |
