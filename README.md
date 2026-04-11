@@ -45,6 +45,7 @@
 | [3546-equal-sum-grid-partition-i](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3701-compute-alternating-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/master/3701-compute-alternating-sum) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -193,6 +194,7 @@
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
