@@ -285,6 +285,7 @@
 | [1148-article-views-i](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1148-article-views-i/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1527-patients-with-a-condition](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1527-patients-with-a-condition) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1683-invalid-tweets](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
