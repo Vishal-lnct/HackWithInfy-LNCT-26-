@@ -80,6 +80,7 @@
 | [0769-max-chunks-to-make-sorted](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0769-max-chunks-to-make-sorted) |
 | [0856-score-of-parentheses](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -268,6 +269,7 @@
 | [0845-longest-mountain-in-array](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0845-longest-mountain-in-array) |
 | [0881-boats-to-save-people](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0881-boats-to-save-people) |
 | [0942-di-string-match](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0942-di-string-match/) | Easy |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Backtracking
 |  |
 | ------- |
@@ -349,6 +351,7 @@
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0141-linked-list-cycle) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## String Matching
 |  |
 | ------- |
