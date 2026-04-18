@@ -45,6 +45,7 @@
 | [1980-find-unique-binary-string](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1980-find-unique-binary-string) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2537-count-the-number-of-good-subarrays/) | Medium |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
@@ -124,6 +125,7 @@
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2706-buy-two-chocolates) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Monotonic Stack
@@ -233,6 +235,7 @@
 | [1980-find-unique-binary-string](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1980-find-unique-binary-string) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2537-count-the-number-of-good-subarrays/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -350,6 +353,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1090-largest-values-from-labels](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1090-largest-values-from-labels/) | Medium |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
