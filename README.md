@@ -42,6 +42,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1710-maximum-units-on-a-truck](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1980-find-unique-binary-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -108,6 +109,7 @@
 | [1338-reduce-array-size-to-the-half](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1433-check-if-a-string-can-break-another-string) |
+| [1710-maximum-units-on-a-truck](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2706-buy-two-chocolates) |
@@ -130,6 +132,7 @@
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1710-maximum-units-on-a-truck](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2706-buy-two-chocolates) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
