@@ -51,6 +51,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1710-maximum-units-on-a-truck](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1980-find-unique-binary-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
@@ -227,6 +228,7 @@
 | [1030-matrix-cells-in-distance-order](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1030-matrix-cells-in-distance-order) |
 | [1572-matrix-diagonal-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2923-find-champion-i](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2923-find-champion-i) |
