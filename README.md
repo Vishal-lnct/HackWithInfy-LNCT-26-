@@ -17,6 +17,7 @@
 | [0135-candy](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0137-single-number-ii/) | Medium |
 | [0169-majority-element](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0169-majority-element/) | Easy |
+| [0200-number-of-islands](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0456-132-pattern](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0456-132-pattern/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0474-ones-and-zeroes/) | Medium |
@@ -182,6 +183,7 @@
 | [0112-path-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0113-path-sum-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0200-number-of-islands](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0200-number-of-islands/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0513-find-bottom-left-tree-value) |
 | [0733-flood-fill](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0733-flood-fill) |
@@ -192,6 +194,7 @@
 | [0101-symmetric-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0101-symmetric-tree/) | Easy |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0112-path-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0112-path-sum/) | Easy |
+| [0200-number-of-islands](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0200-number-of-islands/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0513-find-bottom-left-tree-value) |
 | [0733-flood-fill](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0733-flood-fill) |
 | [1609-even-odd-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1609-even-odd-tree) |
@@ -225,6 +228,7 @@
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0036-valid-sudoku/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0733-flood-fill) |
 | [0861-score-after-flipping-matrix](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [1030-matrix-cells-in-distance-order](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1030-matrix-cells-in-distance-order) |
@@ -476,4 +480,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2614-prime-in-diagonal](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2614-prime-in-diagonal) |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
