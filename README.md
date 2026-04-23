@@ -59,6 +59,7 @@
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2274-maximum-consecutive-floors-without-special-floors/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2537-count-the-number-of-good-subarrays/) | Medium |
+| [2643-row-with-maximum-ones](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2706-buy-two-chocolates) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -227,6 +228,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
+| [2643-row-with-maximum-ones](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2923-find-champion-i](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2923-find-champion-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Binary Search
