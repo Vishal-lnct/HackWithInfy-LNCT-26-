@@ -72,6 +72,7 @@
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3127-make-a-square-with-the-same-color](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3127-make-a-square-with-the-same-color/) | Easy |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3142-check-if-grid-satisfies-conditions/) | Easy |
 | [3531-count-covered-buildings](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3531-count-covered-buildings/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3701-compute-alternating-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/master/3701-compute-alternating-sum) |
@@ -247,6 +248,7 @@
 | [2643-row-with-maximum-ones](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2923-find-champion-i](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2923-find-champion-i) |
 | [3127-make-a-square-with-the-same-color](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3127-make-a-square-with-the-same-color/) | Easy |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3142-check-if-grid-satisfies-conditions/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
