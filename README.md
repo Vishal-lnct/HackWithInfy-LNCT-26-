@@ -322,6 +322,7 @@
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2833-furthest-point-from-origin](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vishal-lnct/leetcode_solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -416,6 +417,7 @@
 | [1090-largest-values-from-labels](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1090-largest-values-from-labels/) | Medium |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
+| [2833-furthest-point-from-origin](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
