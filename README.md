@@ -16,6 +16,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0090-subsets-ii/) | Medium |
+| [0134-gas-station](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0137-single-number-ii/) | Medium |
 | [0169-majority-element](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0169-majority-element/) | Easy |
@@ -116,6 +117,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0409-longest-palindrome/) | Easy |
 | [0502-ipo](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0502-ipo) |
