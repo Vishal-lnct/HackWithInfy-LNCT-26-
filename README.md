@@ -12,6 +12,7 @@
 | [0046-permutations](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0090-subsets-ii/) | Medium |
@@ -198,6 +199,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0079-word-search/) | Medium |
 | [0101-symmetric-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0113-path-sum-ii/) | Medium |
@@ -248,6 +250,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0036-valid-sudoku/) | Medium |
+| [0079-word-search](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0079-word-search/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0733-flood-fill) |
@@ -323,6 +326,7 @@
 | [0049-group-anagrams](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0076-minimum-window-substring/) | Hard |
+| [0079-word-search](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0079-word-search/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0344-reverse-string](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -367,6 +371,7 @@
 | ------- | ------- |
 | [0040-combination-sum-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0046-permutations/) | Medium |
+| [0079-word-search](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0090-subsets-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0113-path-sum-ii/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0491-non-decreasing-subsequences) |
