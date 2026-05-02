@@ -249,6 +249,7 @@
 | [0474-ones-and-zeroes](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
+| [0788-rotated-digits](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0788-rotated-digits/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0845-longest-mountain-in-array) |
 | [0894-all-possible-full-binary-trees](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -480,6 +481,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0292-nim-game](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0292-nim-game/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0523-continuous-subarray-sum) |
+| [0788-rotated-digits](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0788-rotated-digits/) | Medium |
 | [1030-matrix-cells-in-distance-order](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1030-matrix-cells-in-distance-order) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2614-prime-in-diagonal](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2614-prime-in-diagonal) |
