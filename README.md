@@ -2,8 +2,8 @@
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0014-longest-common-prefix/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
@@ -91,8 +91,8 @@
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0076-minimum-window-substring/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0658-find-k-closest-elements/) | Medium |
@@ -106,8 +106,8 @@
 | [2537-count-the-number-of-good-subarrays](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2537-count-the-number-of-good-subarrays/) | Medium |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0085-maximal-rectangle) |
 | [0456-132-pattern](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0456-132-pattern/) | Medium |
@@ -118,8 +118,8 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0134-gas-station](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0409-longest-palindrome/) | Easy |
@@ -149,8 +149,8 @@
 | [2706-buy-two-chocolates](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2706-buy-two-chocolates) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0049-group-anagrams](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0169-majority-element/) | Easy |
@@ -182,8 +182,8 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vishal-lnct/leetcode_solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3531-count-covered-buildings](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3531-count-covered-buildings/) | Medium |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0085-maximal-rectangle) |
 | [0456-132-pattern](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0456-132-pattern/) | Medium |
@@ -191,8 +191,8 @@
 | [0503-next-greater-element-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0769-max-chunks-to-make-sorted](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0769-max-chunks-to-make-sorted) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0101-symmetric-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0101-symmetric-tree/) | Easy |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0112-path-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0112-path-sum/) | Easy |
@@ -205,8 +205,8 @@
 | [1609-even-odd-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1609-even-odd-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0079-word-search](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0079-word-search/) | Medium |
 | [0101-symmetric-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0112-path-sum/) | Easy |
@@ -219,8 +219,8 @@
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0101-symmetric-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0101-symmetric-tree/) | Easy |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0112-path-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0112-path-sum/) | Easy |
@@ -229,8 +229,8 @@
 | [0733-flood-fill](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0733-flood-fill) |
 | [1609-even-odd-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1609-even-odd-tree) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0101-symmetric-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0101-symmetric-tree/) | Easy |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0112-path-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0112-path-sum/) | Easy |
@@ -243,8 +243,8 @@
 | [1609-even-odd-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1609-even-odd-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0085-maximal-rectangle](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
@@ -256,8 +256,8 @@
 | [0894-all-possible-full-binary-trees](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0036-valid-sudoku](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0048-rotate-image/) | Medium |
 | [0079-word-search](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0079-word-search/) | Medium |
@@ -279,8 +279,8 @@
 | [3142-check-if-grid-satisfies-conditions](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3142-check-if-grid-satisfies-conditions/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0456-132-pattern](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0456-132-pattern/) | Medium |
 | [0475-heaters](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0475-heaters) |
@@ -291,8 +291,8 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -301,8 +301,8 @@
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0036-valid-sudoku/) | Medium |
@@ -332,8 +332,8 @@
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0014-longest-common-prefix/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -367,8 +367,8 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/Vishal-lnct/leetcode_solution/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vishal-lnct/leetcode_solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0141-linked-list-cycle) |
@@ -383,8 +383,8 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0040-combination-sum-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0046-permutations/) | Medium |
 | [0079-word-search](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0079-word-search/) | Medium |
@@ -393,8 +393,8 @@
 | [0491-non-decreasing-subsequences](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0491-non-decreasing-subsequences) |
 | [1980-find-unique-binary-string](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1980-find-unique-binary-string) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0090-subsets-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0090-subsets-ii/) | Medium |
 | [0137-single-number-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0137-single-number-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0191-number-of-1-bits) |
@@ -405,25 +405,25 @@
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 ## Ordered Set
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0456-132-pattern](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0456-132-pattern/) | Medium |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0502-ipo](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0845-longest-mountain-in-array](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0845-longest-mountain-in-array) |
 | [3127-make-a-square-with-the-same-color](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3127-make-a-square-with-the-same-color/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0176-second-highest-salary/) | Medium |
 | [0177-nth-highest-salary](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0177-nth-highest-salary) |
@@ -448,13 +448,13 @@
 | [1757-recyclable-and-low-fat-products](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0191-number-of-1-bits) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0169-majority-element/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1090-largest-values-from-labels](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1090-largest-values-from-labels/) | Medium |
@@ -462,27 +462,27 @@
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3379-transformed-array](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3379-transformed-array/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/master/3701-compute-alternating-sum) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0141-linked-list-cycle) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0009-palindrome-number](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0048-rotate-image/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
@@ -494,49 +494,49 @@
 | [2614-prime-in-diagonal](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2614-prime-in-diagonal) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Vishal-lnct/leetcode_solution/tree/master/3783-mirror-distance-of-an-integer) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0014-longest-common-prefix/) | Easy |
 ## Brainteaser
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0292-nim-game](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0292-nim-game/) | Easy |
 ## Game Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0292-nim-game](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0292-nim-game/) | Easy |
 ## Rolling Hash
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 ## Hash Function
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vishal-lnct/leetcode_solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Geometry
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1030-matrix-cells-in-distance-order](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1030-matrix-cells-in-distance-order) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2614-prime-in-diagonal](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2614-prime-in-diagonal) |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0200-number-of-islands](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
