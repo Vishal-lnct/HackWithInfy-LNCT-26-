@@ -74,6 +74,7 @@
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2537-count-the-number-of-good-subarrays/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2614-prime-in-diagonal) |
+| [2615-sum-of-distances](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2615-sum-of-distances/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2706-buy-two-chocolates) |
@@ -301,6 +302,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2483-minimum-penalty-for-a-shop/) | Medium |
+| [2615-sum-of-distances](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2615-sum-of-distances/) | Medium |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Hash Table
@@ -330,6 +332,7 @@
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2537-count-the-number-of-good-subarrays/) | Medium |
+| [2615-sum-of-distances](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2615-sum-of-distances/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Vishal-lnct/leetcode_solution/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3531-count-covered-buildings](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3531-count-covered-buildings/) | Medium |
