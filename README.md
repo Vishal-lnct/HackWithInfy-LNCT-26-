@@ -73,6 +73,7 @@
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2274-maximum-consecutive-floors-without-special-floors/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2537-count-the-number-of-good-subarrays/) | Medium |
+| [2553-separate-the-digits-in-an-array](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2614-prime-in-diagonal) |
 | [2615-sum-of-distances](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2615-sum-of-distances) |
 | [2643-row-with-maximum-ones](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2643-row-with-maximum-ones/) | Easy |
@@ -477,6 +478,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3379-transformed-array](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3379-transformed-array/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/master/3701-compute-alternating-sum) |
 ## Queue
