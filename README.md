@@ -87,6 +87,7 @@
 | [3033-modify-the-matrix](https://github.com/Vishal-lnct/leetcode_solution/tree/master/3033-modify-the-matrix) |
 | [3127-make-a-square-with-the-same-color](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3127-make-a-square-with-the-same-color/) | Easy |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3142-check-if-grid-satisfies-conditions/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3379-transformed-array](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3379-transformed-array/) | Easy |
 | [3531-count-covered-buildings](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3531-count-covered-buildings/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -514,6 +515,7 @@
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2614-prime-in-diagonal](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2614-prime-in-diagonal) |
 | [3270-find-the-key-of-the-numbers](https://github.com/Vishal-lnct/leetcode_solution/tree/master/3270-find-the-key-of-the-numbers) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/Vishal-lnct/leetcode_solution/tree/master/3783-mirror-distance-of-an-integer) |
 ## Recursion
 | Problem Name | Difficulty |
