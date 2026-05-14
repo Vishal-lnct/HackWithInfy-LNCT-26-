@@ -57,6 +57,7 @@
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1534-count-good-triplets](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1534-count-good-triplets/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -436,6 +437,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0845-longest-mountain-in-array](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0845-longest-mountain-in-array) |
+| [1534-count-good-triplets](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1534-count-good-triplets/) | Easy |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1638-count-substrings-that-differ-by-one-character/) | Medium |
 | [3127-make-a-square-with-the-same-color](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3127-make-a-square-with-the-same-color/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
