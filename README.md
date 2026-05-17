@@ -72,6 +72,7 @@
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2274-maximum-consecutive-floors-without-special-floors/) | Medium |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2537-count-the-number-of-good-subarrays/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -517,6 +518,7 @@
 | [1030-matrix-cells-in-distance-order](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1030-matrix-cells-in-distance-order) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2427-number-of-common-factors](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2427-number-of-common-factors/) | Easy |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2614-prime-in-diagonal) |
 | [3270-find-the-key-of-the-numbers](https://github.com/Vishal-lnct/leetcode_solution/tree/master/3270-find-the-key-of-the-numbers) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -563,6 +565,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2427-number-of-common-factors](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2427-number-of-common-factors/) | Easy |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2614-prime-in-diagonal) |
 ## Union-Find
 | Problem Name | Difficulty |
