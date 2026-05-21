@@ -88,6 +88,7 @@
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3033-modify-the-matrix](https://github.com/Vishal-lnct/leetcode_solution/tree/master/3033-modify-the-matrix) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3127-make-a-square-with-the-same-color](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3127-make-a-square-with-the-same-color/) | Easy |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3142-check-if-grid-satisfies-conditions/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -340,6 +341,7 @@
 | [2537-count-the-number-of-good-subarrays](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2537-count-the-number-of-good-subarrays/) | Medium |
 | [2615-sum-of-distances](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Vishal-lnct/leetcode_solution/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3531-count-covered-buildings](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3531-count-covered-buildings/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -382,6 +384,7 @@
 | [2833-furthest-point-from-origin](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Vishal-lnct/leetcode_solution/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vishal-lnct/leetcode_solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Two Pointers
@@ -542,6 +545,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0014-longest-common-prefix/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
