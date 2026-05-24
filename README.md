@@ -432,6 +432,7 @@
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
+| [3827-count-monobit-integers](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3827-count-monobit-integers/) | Easy |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -452,6 +453,7 @@
 | [2427-number-of-common-factors](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2427-number-of-common-factors/) | Easy |
 | [3127-make-a-square-with-the-same-color](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3127-make-a-square-with-the-same-color/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3827-count-monobit-integers](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3827-count-monobit-integers/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
