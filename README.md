@@ -205,6 +205,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0101-symmetric-tree/) | Easy |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0112-path-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0112-path-sum/) | Easy |
@@ -221,6 +222,7 @@
 | ------- | ------- |
 | [0079-word-search](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0113-path-sum-ii/) | Medium |
@@ -234,6 +236,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0101-symmetric-tree/) | Easy |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0112-path-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0112-path-sum/) | Easy |
@@ -245,6 +248,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0101-symmetric-tree/) | Easy |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0112-path-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0112-path-sum/) | Easy |
