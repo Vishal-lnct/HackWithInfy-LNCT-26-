@@ -26,6 +26,7 @@
 | [0200-number-of-islands](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0283-move-zeroes](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0283-move-zeroes/) | Easy |
 | [0456-132-pattern](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0456-132-pattern/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0475-heaters](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0475-heaters) |
@@ -413,6 +414,7 @@
 | [0075-sort-colors](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0344-reverse-string) |
 | [0475-heaters](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0475-heaters) |
 | [0658-find-k-closest-elements](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0658-find-k-closest-elements/) | Medium |
