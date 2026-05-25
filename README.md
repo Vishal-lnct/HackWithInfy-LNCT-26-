@@ -328,6 +328,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0076-minimum-window-substring/) | Hard |
@@ -363,6 +364,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0014-longest-common-prefix/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0049-group-anagrams) |
@@ -532,6 +534,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0048-rotate-image/) | Medium |
 | [0202-happy-number](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0202-happy-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
