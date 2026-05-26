@@ -19,6 +19,7 @@
 | [0079-word-search](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0090-subsets-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0134-gas-station](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0134-gas-station) |
@@ -168,6 +169,7 @@
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0475-heaters](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0475-heaters) |
@@ -416,6 +418,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0283-move-zeroes/) | Easy |
