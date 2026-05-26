@@ -381,6 +381,7 @@
 | [0058-length-of-last-word](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0079-word-search/) | Medium |
+| [0125-valid-palindrome](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0242-valid-anagram](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0344-reverse-string) |
@@ -422,6 +423,7 @@
 | [0061-rotate-list](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0283-move-zeroes/) | Easy |
