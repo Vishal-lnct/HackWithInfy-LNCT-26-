@@ -541,6 +541,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0258-add-digits) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3379-transformed-array](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3379-transformed-array/) | Easy |
@@ -570,6 +571,7 @@
 | [0070-climbing-stairs](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0202-happy-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+| [0258-add-digits](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0292-nim-game/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0509-fibonacci-number](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0509-fibonacci-number/) | Easy |
@@ -629,6 +631,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0258-add-digits) |
 | [2427-number-of-common-factors](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2427-number-of-common-factors/) | Easy |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2470-number-of-subarrays-with-lcm-equal-to-k/) | Medium |
