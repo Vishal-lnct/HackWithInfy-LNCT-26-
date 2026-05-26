@@ -172,6 +172,7 @@
 | [0088-merge-sorted-array](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0242-valid-anagram/) | Easy |
 | [0475-heaters](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0475-heaters) |
 | [0502-ipo](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0502-ipo) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
@@ -344,6 +345,7 @@
 | [0169-majority-element](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0409-longest-palindrome/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0491-non-decreasing-subsequences) |
@@ -380,6 +382,7 @@
 | [0076-minimum-window-substring](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0079-word-search/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+| [0242-valid-anagram](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
