@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0036-valid-sudoku/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0046-permutations/) | Medium |
@@ -312,6 +313,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0035-search-insert-position) |
 | [0456-132-pattern](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0456-132-pattern/) | Medium |
 | [0475-heaters](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0475-heaters) |
 | [0658-find-k-closest-elements](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0658-find-k-closest-elements/) | Medium |
