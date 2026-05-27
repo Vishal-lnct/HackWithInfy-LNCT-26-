@@ -126,6 +126,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0094-binary-tree-inorder-traversal) |
@@ -386,6 +387,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0058-length-of-last-word) |
