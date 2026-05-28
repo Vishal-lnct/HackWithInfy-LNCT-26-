@@ -1,11 +1,11 @@
 class Solution {
 public:
     int candy(vector<int>& ratings) {
-
-        int n=ratings.size();
+int n=ratings.size();
         vector<int>ans(n,1);
+int count=0;
 
-        for(int i=1;i<n;i++){
+        for(int i=1;i<ratings.size();i++){
             if(ratings[i]>ratings[i-1]){
                 ans[i]=ans[i-1]+1;
             }
@@ -16,11 +16,9 @@ public:
                 ans[i]=max(ans[i],ans[i+1]+1);
             }
         }
-        int sum=0;
         for(int i=0;i<ans.size();i++){
-            sum+=ans[i];
+            count+=ans[i];
         }
-        return sum;
-        
+        return count;
     }
 };
