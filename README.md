@@ -13,6 +13,7 @@
 | [0035-search-insert-position](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0036-valid-sudoku/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0040-combination-sum-ii/) | Medium |
+| [0045-jump-game-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0049-group-anagrams) |
@@ -147,6 +148,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0011-container-with-most-water/) | Medium |
+| [0045-jump-game-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0135-candy) |
@@ -287,6 +289,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0070-climbing-stairs/) | Easy |
