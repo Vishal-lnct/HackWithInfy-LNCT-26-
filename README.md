@@ -85,6 +85,7 @@
 | [1975-maximum-matrix-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1980-find-unique-binary-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2104-sum-of-subarray-ranges](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
@@ -144,6 +145,7 @@
 | [0769-max-chunks-to-make-sorted](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0769-max-chunks-to-make-sorted) |
 | [0856-score-of-parentheses](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Greedy
 | Problem Name | Difficulty |
@@ -227,6 +229,7 @@
 | [0496-next-greater-element-i](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0769-max-chunks-to-make-sorted](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0769-max-chunks-to-make-sorted) |
+| [2104-sum-of-subarray-ranges](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
