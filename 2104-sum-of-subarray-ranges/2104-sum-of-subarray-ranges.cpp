@@ -10,8 +10,12 @@ public:
 
             for(int j=i;j<nums.size();j++){
 
-               maxi=max(maxi,nums[j]);
-               mini=min(mini,nums[j]);
+                if(nums[j]>maxi){
+                    maxi=nums[j];
+                }
+                if(nums[j]<mini){
+                    mini=nums[j];
+                }
 
                 sum+=(long long)(maxi-mini);
             }
