@@ -505,6 +505,7 @@
 | [0078-subsets](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0090-subsets-ii/) | Medium |
 | [0137-single-number-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0137-single-number-ii/) | Medium |
+| [0190-reverse-bits](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0191-number-of-1-bits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0491-non-decreasing-subsequences) |
@@ -566,6 +567,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0169-majority-element/) | Easy |
+| [0190-reverse-bits](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0191-number-of-1-bits) |
 ## Counting
 | Problem Name | Difficulty |
