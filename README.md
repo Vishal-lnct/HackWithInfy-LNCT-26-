@@ -507,6 +507,7 @@
 | [0137-single-number-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0137-single-number-ii/) | Medium |
 | [0190-reverse-bits](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0491-non-decreasing-subsequences) |
 | [0861-score-after-flipping-matrix](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0861-score-after-flipping-matrix/) | Medium |
@@ -616,6 +617,7 @@
 | [0070-climbing-stairs](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0258-add-digits](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0292-nim-game/) | Easy |
@@ -638,6 +640,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0206-reverse-linked-list/) | Easy |
+| [0231-power-of-two](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0509-fibonacci-number](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0509-fibonacci-number/) | Easy |
 | [0894-all-possible-full-binary-trees](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0894-all-possible-full-binary-trees/) | Medium |
