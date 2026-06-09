@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0014-longest-common-prefix/) | Easy |
+| [0015-3sum](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
@@ -189,6 +190,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0088-merge-sorted-array/) | Easy |
@@ -467,6 +469,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0061-rotate-list/) | Medium |
