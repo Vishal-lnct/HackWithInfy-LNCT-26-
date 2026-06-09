@@ -546,6 +546,7 @@
 | [0175-combine-two-tables](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0176-second-highest-salary/) | Medium |
 | [0177-nth-highest-salary](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0177-nth-highest-salary) |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0197-rising-temperature/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0511-game-play-analysis-i/) | Easy |
