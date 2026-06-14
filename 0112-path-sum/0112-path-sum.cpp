@@ -12,25 +12,24 @@
 class Solution {
 public:
 
-bool check(int sum,TreeNode* root,int target){
-      if(!root){
-        return false;
-      }
-      sum+=root->val;
-
-     if(!root->left && !root->right){
-        if(sum==target){
-            return true;
+bool check(TreeNode* root,int targetSum){
+if(!root){
+            return false;
         }
-     }
-      return check(sum,root->left,target)||
-      check(sum,root->right,target);
+
+        if(!root->left && !root->right){
+            if(targetSum-root->val==0){
+                return true;
+            }
+        }
+return check(root->left, targetSum-root->val) ||
+       check(root->right, targetSum-root->val);
+        // return false;
 
 }
-    bool hasPathSum(TreeNode* root, int target) {
-    return check(0,root,target);
-    
-
+    bool hasPathSum(TreeNode* root, int targetSum) {
+        return check(root,targetSum);
+        
         
     }
 };
