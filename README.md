@@ -256,6 +256,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0513-find-bottom-left-tree-value) |
@@ -316,6 +317,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0513-find-bottom-left-tree-value) |
@@ -379,6 +381,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0035-search-insert-position) |
+| [0222-count-complete-tree-nodes](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0456-132-pattern](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0456-132-pattern/) | Medium |
@@ -543,6 +546,7 @@
 | [0137-single-number-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0137-single-number-ii/) | Medium |
 | [0190-reverse-bits](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0491-non-decreasing-subsequences) |
