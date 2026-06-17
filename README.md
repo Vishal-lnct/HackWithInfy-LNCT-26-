@@ -257,6 +257,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
@@ -285,6 +286,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0200-number-of-islands/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
@@ -330,6 +332,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
@@ -760,6 +763,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0938-range-sum-of-bst/) | Easy |
