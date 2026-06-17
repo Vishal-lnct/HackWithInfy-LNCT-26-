@@ -265,6 +265,7 @@
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0894-all-possible-full-binary-trees](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0894-all-possible-full-binary-trees/) | Medium |
+| [0938-range-sum-of-bst](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1609-even-odd-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1609-even-odd-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -290,6 +291,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0733-flood-fill) |
+| [0938-range-sum-of-bst](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
@@ -333,6 +335,7 @@
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0894-all-possible-full-binary-trees](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0894-all-possible-full-binary-trees/) | Medium |
+| [0938-range-sum-of-bst](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1609-even-odd-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1609-even-odd-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -755,4 +758,5 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0938-range-sum-of-bst/) | Easy |
 <!---LeetCode Topics End-->
