@@ -11,22 +11,20 @@
  */
 class Solution {
 public:
+
+int check(TreeNode* root){
+
+
+    if(!root){
+        return 0;
+    }
+
+   int a=1+ check(root->left);
+   int b= 1+check(root->right);
+
+    return max(a,b);
+}
     int maxDepth(TreeNode* root) {
-
-        if(!root){
-            return 0;
-        }
-        if(!root->left && !root->right){
-            return 1;
-        }
-        if(!root->right){
-            return  1+maxDepth(root->left);
-        }
-        if(!root->left){
-            return 1+maxDepth(root->right);
-        }
-
-
-        return 1+ max(maxDepth(root->left),maxDepth(root->right));
+        return check(root);
     }
 };
