@@ -374,6 +374,7 @@
 | [0045-jump-game-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0055-jump-game/) | Medium |
+| [0062-unique-paths](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0085-maximal-rectangle](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0085-maximal-rectangle) |
@@ -710,6 +711,7 @@
 | [0013-roman-to-integer](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0048-rotate-image/) | Medium |
+| [0062-unique-paths](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0202-happy-number) |
@@ -797,4 +799,8 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0938-range-sum-of-bst/) | Easy |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
