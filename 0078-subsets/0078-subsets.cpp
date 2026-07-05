@@ -1,26 +1,35 @@
 class Solution {
 public:
+
 vector<vector<int>>ans;
 
-void check(int i,vector<int>&nums,vector<int>&temp){
+void check( int i,vector<int>& nums,vector<int>&x){
     int n=nums.size();
-    
+
     if(i==n){
-        ans.push_back(temp);
+        ans.push_back(x);
         return;
     }
-    temp.push_back(nums[i]);
-    check(i+1,nums,temp);
-    temp.pop_back();
-    check(i+1,nums,temp);
+    if(i>n){
+        return;
+    }
 
 
+
+x.push_back(nums[i]); 
+check(i+1,nums,x);
+
+x.pop_back();
+check(i+1,nums,x);
 
 
 }
+
+
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<int>temp;
-        check(0,nums,temp);
+vector<int>x;
+        check(0,nums,x);
         return ans;
+        
     }
 };
