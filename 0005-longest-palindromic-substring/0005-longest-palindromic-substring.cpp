@@ -22,7 +22,7 @@ bool check(int i,int j,string& s){
     int  st=-1;
     for(int i=0;i<s.size();i++){
         
-        for(int j=0;j<s.size();j++){
+        for(int j=i;j<s.size();j++){
            if(check(i,j,s)){
              int p=j-i+1;
              if(p>maxi){
