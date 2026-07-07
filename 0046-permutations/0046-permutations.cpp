@@ -1,31 +1,36 @@
 class Solution {
 public:
-vector<vector<int>>ans;
-void check(int idx,vector<int>&nums,vector<int>&temp,vector<bool>&used){
-    int n=nums.size();
 
-    if(idx==n){
+
+void check(int i, vector<vector<int>>&ans,vector<int>& nums,vector<int>&temp,vector<int>&vis){
+
+    if(temp.size()==nums.size()){
         ans.push_back(temp);
+        return;
     }
-    for(int i=0;i<nums.size();i++){
-        if (!used[i]) {
-                temp.push_back(nums[i]);
-                used[i] = true;
+for(int i=0;i<nums.size();i++){
+    if(vis[i]==1){
+        continue;
+    }
+    vis[i]=1;
+    temp.push_back(nums[i]);
 
-                check(idx + 1, nums, temp, used);
-
-                temp.pop_back();
-                used[i] = false;
-            }
-
+    check(i+1,ans,nums,temp,vis);
+    temp.pop_back();
+    vis[i]=0;
+    
 }
 }
     vector<vector<int>> permute(vector<int>& nums) {
-        int n=nums.size();
+int n=nums.size();
+        vector<vector<int>>ans;
         vector<int>temp;
-        vector<bool>used(n,false);
-        check(0,nums,temp,used);
-        return ans;
 
+        vector<int>vis(n,0);
+
+        check(0,ans,nums,temp,vis);
+
+        return ans;
+        
     }
 };
