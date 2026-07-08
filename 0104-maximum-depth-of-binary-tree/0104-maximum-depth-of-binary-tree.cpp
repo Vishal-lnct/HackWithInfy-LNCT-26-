@@ -13,18 +13,14 @@ class Solution {
 public:
 
 int check(TreeNode* root){
-
-
     if(!root){
         return 0;
     }
 
-   int a=1+ check(root->left);
-   int b= 1+check(root->right);
-
-    return max(a,b);
+    return 1+max(check(root->left),check(root->right));
 }
     int maxDepth(TreeNode* root) {
         return check(root);
+        
     }
 };
