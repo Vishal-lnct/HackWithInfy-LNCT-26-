@@ -21,7 +21,7 @@ int check(int i,string s){
     return 0;
 }
     int romanToInt(string s) {
-int n=s.size()-1;
+// int n=s.size()-1;
      int sum=0;
 
      int i=0;
