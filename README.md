@@ -660,6 +660,7 @@
 | [0175-combine-two-tables](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0176-second-highest-salary/) | Medium |
 | [0177-nth-highest-salary](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0177-nth-highest-salary) |
+| [0180-consecutive-numbers](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0180-consecutive-numbers/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0183-customers-who-never-order/) | Easy |
