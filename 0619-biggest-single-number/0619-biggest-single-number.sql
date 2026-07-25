@@ -1,7 +1,9 @@
-SELECT MAX(num) AS num
-FROM (
-    SELECT num
-    FROM MyNumbers
-    GROUP BY num
-    HAVING COUNT(num) = 1
-) AS temp;
+# Write your MySQL query statement below
+
+select(select num
+from MyNumbers 
+group by num
+having count(*)=1
+order by num desc
+limit 1
+)as num;
