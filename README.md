@@ -674,6 +674,7 @@
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0596-classes-with-at-least-5-students/) | Easy |
+| [0607-sales-person](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0620-not-boring-movies/) | Easy |
