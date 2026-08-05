@@ -1,39 +1,26 @@
 class Solution {
 public:
+int t[201][201];
+int check(int i,int j,vector<vector<int>>& grid){
+int m=grid.size();
+int n=grid[0].size();
 
-int check(int i,int j,vector<vector<int>>& grid, vector<vector<int>>&dp){
-
-    int m=grid.size()-1;
-    int n=grid[0].size()-1;
-    if(i > m || j > n)
+if(i>=m ||j>=n){
     return 1e9;
-
-    if(i==m && j==n){
-        return grid[i][j];
-
-    }
-if(dp[i][j]!=-1){
-    return dp[i][j];
 }
-if(i==m){
-
-    return dp[i][j]=grid[i][j]+check(i,j+1,grid,dp);
-}else if(j==n){
- return dp[i][j]=grid[i][j]+check(i+1,j,grid,dp);
-}else{
-
-    return dp[i][j]=grid[i][j]+min(check(i+1,j,grid,dp),check(i,j+1,grid,dp));
+if(t[i][j]!=-1){
+    return t[i][j];
 }
-
-
-
+if(i==m-1 && j==n-1){
+    return grid[m-1][n-1];
+}
+return  t[i][j]= grid[i][j]+min(check(i+1,j,grid),check(i,j+1,grid));
 
 }
     int minPathSum(vector<vector<int>>& grid) {
-        int m=grid.size();
-        int n=grid[0].size();
 
-        vector<vector<int>>dp(m+1,vector<int>(n+1,-1));
-       return check(0,0,grid,dp);
+        memset(t,-1,sizeof(t));
+        return check(0,0,grid);
+        
     }
 };
