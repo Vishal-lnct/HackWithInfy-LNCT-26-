@@ -90,6 +90,7 @@
 | [1030-matrix-cells-in-distance-order](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1030-matrix-cells-in-distance-order) |
 | [1089-duplicate-zeros](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1089-duplicate-zeros/) | Easy |
 | [1090-largest-values-from-labels](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1090-largest-values-from-labels/) | Medium |
+| [1140-stone-game-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1140-stone-game-ii/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -417,6 +418,7 @@
 | [0845-longest-mountain-in-array](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0877-stone-game/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0894-all-possible-full-binary-trees/) | Medium |
+| [1140-stone-game-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1140-stone-game-ii/) | Medium |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1638-count-substrings-that-differ-by-one-character/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Matrix
@@ -473,6 +475,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1140-stone-game-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1140-stone-game-ii/) | Medium |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2483-minimum-penalty-for-a-shop/) | Medium |
 | [2615-sum-of-distances](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2615-sum-of-distances) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
@@ -772,6 +775,7 @@
 | [0788-rotated-digits](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0877-stone-game/) | Medium |
 | [1030-matrix-cells-in-distance-order](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1030-matrix-cells-in-distance-order) |
+| [1140-stone-game-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1140-stone-game-ii/) | Medium |
 | [1185-day-of-the-week](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1185-day-of-the-week/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2427-number-of-common-factors](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2427-number-of-common-factors/) | Easy |
@@ -815,6 +819,7 @@
 | [0292-nim-game](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0292-nim-game/) | Easy |
 | [0486-predict-the-winner](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1140-stone-game-ii/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -881,9 +886,11 @@
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1140-stone-game-ii/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1140-stone-game-ii/) | Medium |
 <!---LeetCode Topics End-->
