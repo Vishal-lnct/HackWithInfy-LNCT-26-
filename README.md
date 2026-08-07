@@ -886,6 +886,7 @@
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0292-nim-game/) | Easy |
 | [0486-predict-the-winner](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1140-stone-game-ii/) | Medium |
@@ -910,4 +911,12 @@
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0518-coin-change-ii/) | Medium |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0292-nim-game/) | Easy |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
