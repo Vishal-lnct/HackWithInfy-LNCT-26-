@@ -1,26 +1,34 @@
 class Solution {
 public:
-void check(vector<vector<int>>& image, int i, int j, int color,int x){
-int m=image.size();
-int n=image[0].size();
 
+void check(vector<vector<int>>&image,int sr,int sc,int color,int p){
 
-if(i<0 ||j<0 ||i>=m||j>=n||image[i][j]!=x||image[i][j]==color){
+    int m=image.size();
+    int n=image[0].size();
+
+    if(sr < 0 || sr >= m || sc < 0 || sc >= n){
     return;
 }
-image[i][j]=color;
-check(image,i+1,j,color,x);
-check(image,i,j+1,color,x);
-check(image,i-1,j,color,x);
-check(image,i,j-1,color,x);
 
+ if(image[sr][sc] != p) {
+            return;
+        }
+   image[sr][sc] = color;
+    check(image,sr+1,sc,color,p);
+    check(image,sr,sc+1,color,p);
+    check(image,sr-1,sc,color,p);
+    check(image,sr,sc-1,color,p);
+
+
+    
 }
-
-
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
-        int x=image[sr][sc];
-        check(image,sr,sc,color,x);
+        int p=image[sr][sc];
+         if(p == color) {
+            return image;
+        }
+        check(image,sr,sc,color,p);
         return image;
-        
+
     }
 };
