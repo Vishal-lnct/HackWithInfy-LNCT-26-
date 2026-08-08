@@ -1,35 +1,45 @@
 class Solution {
 public:
-int t[101];
-int check(vector<int>&nums,int i,int j){
-    if(i>j){
+int check1(vector<int>&nums,int i,vector<int>&dp1){
+int n=nums.size()-2;
+
+    if(i>n){
         return 0;
     }
-    if(t[i]!=-1){
-        return t[i];
-    }
-    int take=nums[i]+check(nums,i+2,j);
-    int ntake=check(nums,i+1,j);
-
-    return t[i]=max(take,ntake);
+if(dp1[i]!=-1){
+    return dp1[i];
 }
+    int a=nums[i]+check1(nums,i+2,dp1);
+    int b=check1(nums,i+1,dp1);
+
+    return  dp1[i]=max(a,b);
+}
+
+int check2(vector<int>&nums,int i,vector<int>&dp2){
+int n=nums.size();
+
+    if(i>=n){
+        return 0;
+    }
+if(dp2[i]!=-1){
+    return dp2[i];
+}
+    int a=nums[i]+check2(nums,i+2,dp2);
+    int b=check2(nums,i+1,dp2);
+
+    return  dp2[i]=max(a,b);
+}
+
     int rob(vector<int>& nums) {
 
-        if(nums.size()==1){
-            return nums[0];
-        }
-        if(nums.size()==2){
-            return max(nums[0],nums[1]);
-        }
-        int  n=nums.size();
-        memset(t,-1,sizeof(t));
+int n=nums.size();
+if (n == 1) return nums[0];
+vector<int>dp1(n,-1);
+vector<int>dp2(n,-1);
+        int p=check1(nums,0,dp1);
+        int q=check2(nums,1,dp2);
 
-        int a=check(nums,0,n-2);
-
-        memset(t,-1,sizeof(t));
-        int b=check(nums,1,n-1);
-
-        return max(a,b);
+        return max(p,q);
         
     }
 };
