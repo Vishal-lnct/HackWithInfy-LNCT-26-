@@ -1,29 +1,25 @@
 class Solution {
 public:
-int t[100];
-int check( vector<int>nums,int i,int n){
 
-    if(i>n){
+int check(vector<int>&nums,int i,vector<int>&dp){
+int n=nums.size();
+
+    if(i>=n){
         return 0;
     }
+if(dp[i]!=-1){
+    return dp[i];
+}
+    int a=nums[i]+check(nums,i+2,dp);
+    int b=check(nums,i+1,dp);
 
-    if(t[i]!=-1){
-        return t[i];
-    }
-    int take=nums[i]+check(nums,i+2,n);
-    int nottake=check(nums,i+1,n);
-
-    return t[i]=max(take,nottake);
-    
-
-
+    return  dp[i]=max(a,b);
 }
     int rob(vector<int>& nums) {
+        int n=nums.size();
+        vector<int>dp(n,-1);
 
-        int n=nums.size()-1;
-
-        memset(t,-1,sizeof(t));
-       return  check(nums,0,n);
+        return check(nums,0,dp);
         
     }
 };
