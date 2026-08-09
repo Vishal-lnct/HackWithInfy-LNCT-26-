@@ -1,40 +1,35 @@
 class Solution {
 public:
 
-void check(int i,int j,vector<vector<char>>& grid,int row,int col, vector<vector<bool>>&vis)
-{
-if(i<0 ||j<0 ||i>=row  || j>=col  || grid[i][j]!='1'|| vis[i][j]==true){
-    return ;
-}
-vis[i][j]=true;
+void check(vector<vector<char>>& grid,int i,int j,vector<vector<bool>>&vis){
+int  m=grid.size();
+        int n=grid[0].size();
 
-check(i+1,j,grid,row,col,vis);
-check(i,j+1,grid,row,col,vis);
-check(i-1,j,grid,row,col,vis);
-check(i,j-1,grid,row,col,vis);
-
-
-
+        if(i<0 ||i>=m ||j<0 ||j>=n||vis[i][j]||grid[i][j]!='1'){
+            return;
+        }
+        vis[i][j]=true;
+        check(grid,i+1,j,vis);
+        check(grid,i,j+1,vis);
+        check(grid,i-1,j,vis);
+        check(grid,i,j-1,vis);
 
 
 
 }
     int numIslands(vector<vector<char>>& grid) {
-        int row=grid.size();
-        int col=grid[0].size();
-        vector<vector<bool>>vis(row,vector<bool>(col,false));
-        int count=0;
-
-        for(int i=0;i<row;i++){
-            for(int j=0;j<col;j++){
-                if(grid[i][j]=='1' && vis[i][j]==false){
-
-                    check(i,j,grid,row,col,vis);
-                    count++;
-                }
+        int  m=grid.size();
+        int n=grid[0].size();
+   vector<vector<bool>> vis(m, vector<bool>(n, false));
+int count=0;
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+if(grid[i][j]=='1' && vis[i][j]==false){
+    count++;
+    check(grid,i,j,vis);
+}
             }
         }
-
-        return count;
+return count;
     }
 };
