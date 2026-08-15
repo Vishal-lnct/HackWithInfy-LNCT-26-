@@ -333,6 +333,7 @@
 | [0938-range-sum-of-bst](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -353,6 +354,7 @@
 | [0733-flood-fill](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0733-flood-fill) |
 | [0965-univalued-binary-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1609-even-odd-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1609-even-odd-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -859,6 +861,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0200-number-of-islands/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -934,4 +937,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0022-generate-parentheses) |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
