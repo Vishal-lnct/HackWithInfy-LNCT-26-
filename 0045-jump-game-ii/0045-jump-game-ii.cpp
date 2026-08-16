@@ -1,33 +1,19 @@
 class Solution {
 public:
-vector<int>dp;
+    int jump(vector<int>& nums) {
 
-int check(int i,vector<int>&nums,vector<int>&dp){
- int n = nums.size();
+        int curr=0;
+        int far=0;
+        int jump=0;
 
-        if (i >= n - 1)
-            return 0;
+        for(int i=0;i<nums.size()-1;i++){
 
-        if (dp[i] != -1)
-            return dp[i];
-
-        int ans = INT_MAX;
-
-        for (int jump = 1; jump <= nums[i]; jump++) {
-            if (i + jump < n) {
-                int temp = check(i + jump, nums, dp);
-
-                if (temp != INT_MAX) {
-                    ans = min(ans, 1 + temp);
-                }
+            far=max(far,i+nums[i]);
+            if(i==curr){
+                curr=far;
+                jump++;
             }
         }
-
-        return dp[i] = ans;
-    }
-
-    int jump(vector<int>& nums) {
-        vector<int> dp(nums.size(), -1);
-        return check(0, nums, dp);
+        return jump;
     }
 };
