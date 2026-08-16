@@ -10,31 +10,32 @@
 class Solution {
 public:
 
- TreeNode* check(TreeNode* root, TreeNode* p, TreeNode* q){
-    if(!root){
+TreeNode* check(TreeNode* root, TreeNode* p, TreeNode* q){
+
+    if(root==NULL){
         return NULL;
     }
-    if(root==p||root==q){
-        return root;
-    }
+ if(root==p ||root==q){
+            return root;
+        }
 
-   TreeNode* x= check(root->left,p,q);
-    TreeNode* y=check(root->right,p,q);
+        TreeNode* left=check(root->left,p,q);
+        TreeNode* right=check(root->right,p,q);
 
-    if(x!=NULL &&y!=NULL){
-        return root;
-    }
-    if(x!=NULL && y==NULL){
-        return x;
-    }
+        if(left &&  right){
+            return root;
+        }
+        if(left){
+            return left;
+        }
+     return right;
 
-
-    if(y!=NULL &&x==NULL){
-        return y;
-    }
-   return NULL;
 }
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        return check(root,p,q);
+
+      return  check(root,p,q);
+
+
+        
     }
 };
