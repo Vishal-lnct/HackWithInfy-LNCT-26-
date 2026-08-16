@@ -302,6 +302,7 @@
 | [0938-range-sum-of-bst](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1609-even-odd-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1609-even-odd-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
@@ -333,6 +334,7 @@
 | [0938-range-sum-of-bst](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
@@ -353,6 +355,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0513-find-bottom-left-tree-value) |
 | [0733-flood-fill](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0733-flood-fill) |
 | [0965-univalued-binary-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0965-univalued-binary-tree/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1609-even-odd-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1609-even-odd-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
@@ -388,6 +391,7 @@
 | [0938-range-sum-of-bst](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1609-even-odd-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1609-even-odd-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Dynamic Programming
