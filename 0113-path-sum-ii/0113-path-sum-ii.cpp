@@ -11,35 +11,37 @@
  */
 class Solution {
 public:
-vector<vector<int>>ans;
-//agr pop_back nhi krna h to pass by value kr do temp ko
 
-void check(int sum,vector<int>&temp,TreeNode* root,int &targetSum){
+vector<vector<int>>ans;
+void  check(TreeNode* root,int targetSum,vector<int>&x){
+
+
     if(!root){
         return;
     }
-    sum+=root->val;
-    temp.push_back(root->val);
 
-    if(!root->left && !root->right){
-        if(sum==targetSum){
-            ans.push_back(temp);
-        }
+    x.push_back(root->val);
+
+    targetSum=targetSum-root->val;
+
+    if(!root->left && !root->right && targetSum==0){
+        ans.push_back(x);
+
+    }else{
+
+        check(root->left,targetSum,x);
+        check(root->right,targetSum,x);
     }
-    check(sum,temp,root->left,targetSum);
-     check(sum,temp,root->right,targetSum);
-     temp.pop_back();
-    
 
+    x.pop_back();
 
 }
-
     vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
-        vector<int>temp;
-        int sum=0;
-    check(0,temp,root,targetSum);
 
-    return ans;
+        vector<int>x;
+
+        check(root,targetSum,x);
+        return  ans;
         
     }
 };
