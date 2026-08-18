@@ -1,31 +1,36 @@
 class Solution {
 public:
+
 vector<vector<int>>ans;
 
-void check(int idx,vector<int>& candidates, int target,vector<int>temp){
+void check(int i,vector<int>& candidates, int target,vector<int>&temp){
+
+    int n=candidates.size();
+
     if(target==0){
         ans.push_back(temp);
-    }
-    if(target<0){
         return;
     }
-    for(int i=idx;i<candidates.size();i++){
-        if(i>idx && candidates[i]==candidates[i-1]){
-            continue;
-        }
-        temp.push_back(candidates[i]);
-        check(i+1,candidates,target-candidates[i],temp);
-        temp.pop_back();
+    if(i>=n ||target<0){
+        return ;
     }
-    
+temp.push_back(candidates[i]);
+    check(i+1,candidates,target-candidates[i],temp);
+    temp.pop_back();
+     int j = i + 1;
+
+        while (j < candidates.size() &&
+               candidates[j] == candidates[i]) {
+            j++;
+        }
+
+        check(j, candidates, target, temp);
 }
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
+
+            sort(candidates.begin(), candidates.end());
         vector<int>temp;
-
-        sort(candidates.begin(),candidates.end());
-        check(0,candidates,target,temp);
-        return ans;
-
-        
+         check(0,candidates,target,temp);
+         return ans;
     }
 };
