@@ -14,6 +14,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0036-valid-sudoku/) | Medium |
+| [0039-combination-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0045-jump-game-ii/) | Medium |
@@ -641,6 +642,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0078-subsets) |
