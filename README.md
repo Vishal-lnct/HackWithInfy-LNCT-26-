@@ -51,6 +51,7 @@
 | [0283-move-zeroes](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0283-move-zeroes/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0416-partition-equal-subset-sum) |
@@ -331,6 +332,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0257-binary-tree-paths) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0404-sum-of-left-leaves](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0513-find-bottom-left-tree-value) |
@@ -359,6 +361,7 @@
 | [0200-number-of-islands](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0404-sum-of-left-leaves](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0513-find-bottom-left-tree-value) |
 | [0733-flood-fill](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0733-flood-fill) |
@@ -428,6 +431,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0392-is-subsequence](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0392-is-subsequence/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0435-non-overlapping-intervals) |
@@ -462,6 +466,7 @@
 | [0079-word-search](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0079-word-search/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0200-number-of-islands/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0733-flood-fill](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0733-flood-fill) |
 | [0861-score-after-flipping-matrix](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [1030-matrix-cells-in-distance-order](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1030-matrix-cells-in-distance-order) |
@@ -844,6 +849,7 @@
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0509-fibonacci-number](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0509-fibonacci-number/) | Easy |
 | [0894-all-possible-full-binary-trees](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
@@ -970,6 +976,7 @@
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 ## Longest Common Subsequence
@@ -988,5 +995,10 @@
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 <!---LeetCode Topics End-->
