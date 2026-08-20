@@ -440,6 +440,7 @@
 | [0894-all-possible-full-binary-trees](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1140-stone-game-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1140-stone-game-ii/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1638-count-substrings-that-differ-by-one-character/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Matrix
@@ -582,6 +583,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0942-di-string-match](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0942-di-string-match/) | Easy |
 | [0984-string-without-aaa-or-bbb](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0984-string-without-aaa-or-bbb/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1374-generate-a-string-with-characters-that-have-odd-counts/) | Easy |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
