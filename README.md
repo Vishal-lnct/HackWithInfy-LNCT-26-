@@ -106,6 +106,7 @@
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1534-count-good-triplets](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1534-count-good-triplets/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -167,6 +168,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
@@ -458,6 +460,7 @@
 | [1140-stone-game-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1140-stone-game-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1638-count-substrings-that-differ-by-one-character/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
