@@ -99,6 +99,7 @@
 | [1089-duplicate-zeros](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1089-duplicate-zeros/) | Easy |
 | [1090-largest-values-from-labels](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1090-largest-values-from-labels/) | Medium |
 | [1140-stone-game-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1140-stone-game-ii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -160,6 +161,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -514,6 +516,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1140-stone-game-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1140-stone-game-ii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2483-minimum-penalty-for-a-shop/) | Medium |
 | [2615-sum-of-distances](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2615-sum-of-distances) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
@@ -546,6 +549,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1090-largest-values-from-labels](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1090-largest-values-from-labels/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1338-reduce-array-size-to-the-half) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -824,6 +828,7 @@
 | [1030-matrix-cells-in-distance-order](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1030-matrix-cells-in-distance-order) |
 | [1140-stone-game-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1140-stone-game-ii/) | Medium |
 | [1185-day-of-the-week](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1185-day-of-the-week/) | Easy |
+| [1248-count-number-of-nice-subarrays](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2427-number-of-common-factors](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2427-number-of-common-factors/) | Easy |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
