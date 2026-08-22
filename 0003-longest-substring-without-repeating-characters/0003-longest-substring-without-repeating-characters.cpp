@@ -4,20 +4,22 @@ public:
 
         unordered_map<char,int>ans;
 
-        int maxi=0;
-        int count=0;
+       int left=0;
+       int maxi=0;
 
-        int left=0;
-        for(int right=0;right<s.size();right++){
- 
-            while(ans[s[right]]>0){
-                ans[s[left]]--;
-                left++;
-                
-            }
-           maxi=max(right-left+1,maxi);
-            ans[s[right]]++;
+       for(int right=0;right<s.size();right++){
+        ans[s[right]]++;
+
+        
+
+        while(ans[s[right]]>1){
+            ans[s[left]]--;
+            left++;
         }
-        return maxi;
+
+maxi=max(maxi,right-left+1);
+
+       }
+       return maxi; 
     }
 };
