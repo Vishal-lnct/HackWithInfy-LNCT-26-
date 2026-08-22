@@ -45,6 +45,7 @@
 | [0189-rotate-array](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0200-number-of-islands/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -158,6 +159,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0076-minimum-window-substring/) | Hard |
+| [0209-minimum-size-subarray-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0658-find-k-closest-elements/) | Medium |
@@ -500,6 +502,7 @@
 | [0035-search-insert-position](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -516,6 +519,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0525-contiguous-array/) | Medium |
