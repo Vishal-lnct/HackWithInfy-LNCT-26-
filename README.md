@@ -463,6 +463,7 @@
 | [0486-predict-the-winner](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0509-fibonacci-number/) | Easy |
+| [0516-longest-palindromic-subsequence](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0518-coin-change-ii/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
@@ -636,6 +637,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0474-ones-and-zeroes/) | Medium |
+| [0516-longest-palindromic-subsequence](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0856-score-of-parentheses/) | Medium |
