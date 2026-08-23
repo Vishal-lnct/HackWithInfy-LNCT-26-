@@ -1,46 +1,55 @@
 class Solution {
 public:
     string minWindow(string s, string t) {
-      unordered_map<char,int> mp;
 
+                unordered_map<char,int> ans;
 
-      for(int i=0;i<t.size();i++){
-        mp[t[i]]++;
-      }
-        int left = 0;
+        for(int i = 0; i < t.size(); i++){
+            ans[t[i]]++;
+        }
+
         int count = t.size();
+
+        int start = -1;
         int mini = INT_MAX;
-        int start = 0;
+
+        int left = 0;
 
         for(int right = 0; right < s.size(); right++){
 
-            if(mp[s[right]] > 0){
-                count--;
-            }
+            if(ans.find(s[right]) != ans.end()){
 
-            mp[s[right]]--;
+                if(ans[s[right]] > 0){
+                    count--;
+                }
+
+                ans[s[right]]--;
+            }
 
             while(count == 0){
 
-                if(right - left + 1 < mini){
-                    mini = right - left + 1;
+                if(right-left+1 < mini){
+                    mini = right-left+1;
                     start = left;
                 }
 
-                mp[s[left]]++;
+                if(ans.find(s[left]) != ans.end()){
 
-                if(mp[s[left]] > 0){
-                    count++;
+                    ans[s[left]]++;
+
+                    if(ans[s[left]] > 0){
+                        count++;
+                    }
                 }
 
                 left++;
             }
         }
 
-        if(mini == INT_MAX) return "";
+        if(start == -1){
+            return "";
+        }
 
         return s.substr(start, mini);
-
-        
     }
 };
