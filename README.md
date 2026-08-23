@@ -130,6 +130,7 @@
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2274-maximum-consecutive-floors-without-special-floors/) | Medium |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
@@ -185,6 +186,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2537-count-the-number-of-good-subarrays/) | Medium |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -529,6 +531,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -543,6 +546,7 @@
 | [1140-stone-game-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1140-stone-game-ii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2483-minimum-penalty-for-a-shop/) | Medium |
 | [2615-sum-of-distances](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2615-sum-of-distances) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2971-find-polygon-with-the-largest-perimeter/) | Medium |
