@@ -2,29 +2,31 @@ class Solution {
 public:
     int findMaxLength(vector<int>& nums) {
 
-       int maxi=0;
-unordered_map<int,int>ans;
+        unordered_map<int,int>ans;
 
-ans[0]=-1;
+        ans[0]=-1;
+int maxi=INT_MIN;
 int sum=0;
-for(int i=0;i<nums.size();i++){
-if(nums[i]==0){
+        for(int i=0;i<nums.size();i++){
+            if(nums[i]==1){
+                sum++;
 
-    sum--;
-}else{
-    sum++;
-}
-cout<<sum<<endl;
-if(ans.find(sum)!=ans.end()){
+            }else{
+                sum--;
+            }
+            if(ans.find(sum)!=ans.end()){
+                maxi=max(maxi,i-ans[sum]);
+            }else{
 
-    maxi=max(maxi,i-ans[sum]);
-}else{
-ans[sum]=i;
+                ans[sum]=i;
+            }
 
-}
 
-}
-       
- return maxi;       
+        }
+        if(maxi==INT_MIN){
+            return 0;
+        }
+      
+       return maxi; 
     }
 };
