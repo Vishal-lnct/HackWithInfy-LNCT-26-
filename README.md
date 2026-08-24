@@ -39,6 +39,7 @@
 | [0134-gas-station](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0137-single-number-ii/) | Medium |
+| [0139-word-break](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0169-majority-element/) | Easy |
@@ -450,6 +451,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0139-word-break](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0213-house-robber-ii) |
@@ -563,6 +565,7 @@
 | [0049-group-anagrams](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0076-minimum-window-substring/) | Hard |
+| [0139-word-break](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0139-word-break/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0202-happy-number) |
@@ -625,6 +628,7 @@
 | [0079-word-search](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0139-word-break](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0139-word-break/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0205-isomorphic-strings/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0242-valid-anagram](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0242-valid-anagram/) | Easy |
@@ -903,6 +907,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0070-climbing-stairs/) | Easy |
+| [0139-word-break](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0139-word-break/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0509-fibonacci-number](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0509-fibonacci-number/) | Easy |
@@ -912,6 +917,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0014-longest-common-prefix/) | Easy |
+| [0139-word-break](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0139-word-break/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Vishal-lnct/leetcode_solution/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -1072,4 +1078,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+## Brute-Force Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
