@@ -223,6 +223,7 @@
 | [0605-can-place-flowers](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0605-can-place-flowers/) | Easy |
 | [0624-maximum-distance-in-arrays](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0624-maximum-distance-in-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [0670-maximum-swap](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0670-maximum-swap) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0769-max-chunks-to-make-sorted) |
 | [0826-most-profit-assigning-work](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0860-lemonade-change](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0860-lemonade-change) |
@@ -871,6 +872,7 @@
 | [0486-predict-the-winner](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0523-continuous-subarray-sum) |
+| [0670-maximum-swap](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0670-maximum-swap) |
 | [0788-rotated-digits](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0877-stone-game/) | Medium |
 | [1030-matrix-cells-in-distance-order](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1030-matrix-cells-in-distance-order) |
