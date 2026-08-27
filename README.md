@@ -260,6 +260,7 @@
 | [0242-valid-anagram](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0389-find-the-difference](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0389-find-the-difference/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0455-assign-cookies/) | Easy |
 | [0475-heaters](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0475-heaters) |
@@ -578,6 +579,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0389-find-the-difference/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0409-longest-palindrome](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -639,6 +641,7 @@
 | [0257-binary-tree-paths](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0392-is-subsequence/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
@@ -742,6 +745,7 @@
 | [0191-number-of-1-bits](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0231-power-of-two) |
+| [0389-find-the-difference](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0389-find-the-difference/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0491-non-decreasing-subsequences) |
 | [0861-score-after-flipping-matrix](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0861-score-after-flipping-matrix/) | Medium |
