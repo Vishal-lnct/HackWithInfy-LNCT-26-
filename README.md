@@ -626,6 +626,7 @@
 | [0043-multiply-strings](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0079-word-search/) | Medium |
@@ -733,6 +734,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0090-subsets-ii/) | Medium |
 | [0137-single-number-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0137-single-number-ii/) | Medium |
@@ -831,6 +833,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0043-multiply-strings/) | Medium |
+| [0067-add-binary](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0258-add-digits) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -866,6 +869,7 @@
 | [0048-rotate-image](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0189-rotate-array) |
