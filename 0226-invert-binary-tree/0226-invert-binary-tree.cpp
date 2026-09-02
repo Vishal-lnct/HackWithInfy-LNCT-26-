@@ -10,21 +10,25 @@
  * };
  */
 class Solution {
-public:
 
-TreeNode* check(TreeNode* root){
-    if(!root){
-        return NULL;
+    void  check(TreeNode* root){
+
+        if(root==NULL){
+            return;
+        }
+       swap(root->left,root->right);
+
+
+       check(root->left);
+       check(root->right);
+
+
+
+
     }
-    swap(root->left,root->right);
-    check(root->left);
-    check(root->right);
-
-    return root;
-}
+public:
     TreeNode* invertTree(TreeNode* root) {
-        return check(root);
-
-        
+        check(root);
+        return root;
     }
 };
