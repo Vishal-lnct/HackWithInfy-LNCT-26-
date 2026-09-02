@@ -12,22 +12,24 @@
 class Solution {
 public:
 
-vector <int>ans;
-void check(TreeNode* root){
-
+void check(TreeNode* root ,vector<int>&ans){
 
     if(!root){
         return ;
     }
-    check(root->left);
+    check(root->left,ans);
     ans.push_back(root->val);
-    check(root->right);
-
-
-
+    check(root->right,ans);
 }
     vector<int> inorderTraversal(TreeNode* root) {
-        check(root);
+
+        vector<int>ans;
+
+        check(root,ans);
+
         return ans;
+
+
+        
     }
 };
