@@ -41,6 +41,7 @@
 | [0136-single-number](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0137-single-number-ii/) | Medium |
 | [0139-word-break](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0139-word-break/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0169-majority-element/) | Easy |
@@ -206,6 +207,7 @@
 | [0085-maximal-rectangle](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0456-132-pattern](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -884,6 +886,7 @@
 | [0062-unique-paths](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0070-climbing-stairs/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0202-happy-number) |
