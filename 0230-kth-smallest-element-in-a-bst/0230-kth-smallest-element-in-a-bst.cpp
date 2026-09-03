@@ -10,22 +10,31 @@
  * };
  */
 class Solution {
+    vector<int>ans;
 public:
-
-void  check(TreeNode* root,vector<int>&ans){
+void check(TreeNode* root){
     if(!root){
-        return ;
+        return;
     }
-    check(root->left,ans);
-    ans.push_back(root->val);
-    check(root->right,ans);
+   ans.push_back(root->val);
+   if(root->left){
+    check(root->left);
+   }
+   if(root->right){
+    check(root->right);
+   }
+
 
 }
+
     int kthSmallest(TreeNode* root, int k) {
-        vector<int>ans;
-        check(root,ans);
-        
+
+        check(root);
+        sort(ans.begin(),ans.end());
+
         return ans[k-1];
+        
+return 0;
         
     }
 };
