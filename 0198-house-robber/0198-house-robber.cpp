@@ -1,25 +1,27 @@
 class Solution {
 public:
 
-int check(vector<int>&nums,int i,vector<int>&dp){
-int n=nums.size();
+int check(int i,vector<int>&nums,vector<int>&dp ){
+    int n=nums.size();
+
 
     if(i>=n){
         return 0;
     }
-if(dp[i]!=-1){
+    if(dp[i]!=-1){
     return dp[i];
-}
-    int a=nums[i]+check(nums,i+2,dp);
-    int b=check(nums,i+1,dp);
+    }
+    int take=nums[i]+check(i+2,nums,dp);
+    int ntake =check(i+1,nums,dp);
 
-    return  dp[i]=max(a,b);
+    return  dp[i]=max(take,ntake);
 }
+
     int rob(vector<int>& nums) {
-        int n=nums.size();
-        vector<int>dp(n,-1);
+        int n=nums.size()-1;
+        vector<int>dp(n+1,-1);
 
-        return check(nums,0,dp);
+        return check(0,nums,dp);
         
     }
 };
