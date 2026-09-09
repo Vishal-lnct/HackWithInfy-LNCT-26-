@@ -14,7 +14,7 @@ public:
     vector<int> largestValues(TreeNode* root) {
 vector<int>ans;
         if(!root){
-          return  ans;
+          return  {};
         }
 
         queue<TreeNode* >q;
