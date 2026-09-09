@@ -340,6 +340,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0700-search-in-a-binary-search-tree) |
@@ -374,6 +375,7 @@
 | [0404-sum-of-left-leaves](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0733-flood-fill) |
@@ -402,6 +404,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0404-sum-of-left-leaves](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0733-flood-fill](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0733-flood-fill) |
 | [0965-univalued-binary-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -435,6 +438,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0700-search-in-a-binary-search-tree) |
