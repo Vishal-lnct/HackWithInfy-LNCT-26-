@@ -23,6 +23,7 @@
 | [0049-group-anagrams](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0055-jump-game/) | Medium |
+| [0063-unique-paths-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0074-search-a-2d-matrix) |
@@ -459,6 +460,7 @@
 | [0053-maximum-subarray](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0072-edit-distance/) | Medium |
@@ -506,6 +508,7 @@
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0048-rotate-image/) | Medium |
+| [0063-unique-paths-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0074-search-a-2d-matrix) |
