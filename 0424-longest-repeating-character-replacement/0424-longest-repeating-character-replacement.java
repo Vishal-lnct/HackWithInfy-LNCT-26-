@@ -9,10 +9,10 @@ int left=0;
             char ch=s.charAt(right);
             ans.put(ch,ans.getOrDefault(ch,0)+1);
         
-for (Map.Entry<Character, Integer> entry : ans.entrySet()) {
+for (Map.Entry<Character, Integer> e : ans.entrySet()) {
 
    
-    int value = entry.getValue();
+    int value = e.getValue();
     maxf=Math.max(maxf,value);
 
     
