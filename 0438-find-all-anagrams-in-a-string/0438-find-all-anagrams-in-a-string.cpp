@@ -29,7 +29,7 @@ for(int right=k;right<s.size();right++){
     left++;
 
     if(a==b){
-    ans.push_back(right-k+1);
+    ans.push_back(left);
 }
 }
 
