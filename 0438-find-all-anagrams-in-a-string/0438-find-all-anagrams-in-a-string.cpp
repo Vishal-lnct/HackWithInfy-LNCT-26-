@@ -1,40 +1,38 @@
 class Solution {
 public:
     vector<int> findAnagrams(string s, string p) {
-
-
-        if(p.size()>s.size()){
-            return {};
-        }
-        vector<int>ans;
-
-        vector<int>x1(26);
-        vector<int>x2(26);
-
-        for(int i=0;i<p.size();i++){
-            x2[p[i]-'a']++;
-        }
         
-int k=p.size();
+        vector<int>a(26);
+        vector<int>b(26);
+vector<int>ans;
+        int k =p.size();
+        if(s.size()<k){
+            return ans;
+        }
 
-for(int i=0;i<k;i++){
+        for(int i=0;i<k;i++){
+            a[p[i]-'a']++;
+        }
 
-    x1[s[i]-'a']++;
-}
-if(x1==x2){
+        for(int i=0;i<k;i++){
+            b[s[i]-'a']++;
+        }
+
+if(a==b){
     ans.push_back(0);
 }
 int left=0;
 for(int right=k;right<s.size();right++){
-x1[s[right]-'a']++;
-    x1[s[left]-'a']--;
-    left++;
-    
-    if(x1==x2){
-        ans.push_back(left);
-    }
-}
-return ans;
 
+    b[s[left]-'a']--;
+    b[s[right]-'a']++;
+    left++;
+
+    if(a==b){
+    ans.push_back(right-k+1);
+}
+}
+
+return ans;
     }
 };
