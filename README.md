@@ -685,6 +685,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0516-longest-palindromic-subsequence) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0567-permutation-in-string](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0647-palindromic-substrings/) | Medium |
