@@ -15,7 +15,7 @@ int left=0;
                 maxf=max(maxf,x.second);
             }
         }
-while(right-left+1-maxf>k){
+while(right-left+1>maxf+k){
     ans[s[left]]--;
     left++;
 
