@@ -1145,6 +1145,7 @@
 ## Longest Increasing Subsequence
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0300-longest-increasing-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 ## Brute-Force Search
 |  |
