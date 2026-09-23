@@ -128,6 +128,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1710-maximum-units-on-a-truck](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1872-stone-game-viii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1872-stone-game-viii/) | Hard |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -198,6 +199,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -256,6 +258,7 @@
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1710-maximum-units-on-a-truck](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1975-maximum-matrix-sum](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1975-maximum-matrix-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -301,6 +304,7 @@
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1710-maximum-units-on-a-truck](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2274-maximum-consecutive-floors-without-special-floors/) | Medium |
@@ -566,6 +570,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Prefix Sum
 |  |
@@ -582,6 +587,7 @@
 | [1140-stone-game-ii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1140-stone-game-ii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1872-stone-game-viii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1872-stone-game-viii/) | Hard |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2483-minimum-penalty-for-a-shop/) | Medium |
