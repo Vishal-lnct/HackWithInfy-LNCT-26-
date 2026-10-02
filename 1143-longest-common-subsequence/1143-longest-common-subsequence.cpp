@@ -17,7 +17,7 @@ int check(int i ,int j,string &text1, string &text2){
     }
 
     if(text1[i]==text2[j]){
-        return  t[i][j]=1+check(i+1,j+1,text1,text2);
+        return  1+check(i+1,j+1,text1,text2);
     }
     return t[i][j]= max(check(i+1,j,text1,text2),check(i,j+1,text1,text2));
 }
