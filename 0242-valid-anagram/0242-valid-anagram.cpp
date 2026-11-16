@@ -2,17 +2,17 @@ class Solution {
 public:
     bool isAnagram(string s, string t) {
 
-        vector<int>x(26,0);
+        vector<int>ans(26);
         for(int i=0;i<s.size();i++){
-            x[s[i]-'a']++;
+            ans[s[i]-'a']++;
         }
 
         for(int i=0;i<t.size();i++){
-            x[t[i]-'a']--;
+            ans[t[i]-'a']--;
         }
 
         for(int i=0;i<26;i++){
-            if(x[i]!=0){
+            if(ans[i]!=0){
                 return false;
             }
         }
